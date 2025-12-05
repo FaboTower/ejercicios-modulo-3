@@ -1,7 +1,7 @@
 # Ejercicio 6 - Clasificador de notas” (más completo)
 
 [⬅ Volver al índice](../index.html)  
-[➡ Ver solución](./ejercicio-06-solucion.md)
+[➡ Ver solución](../ejercicio-06-solucion.md)
 
 ---
 

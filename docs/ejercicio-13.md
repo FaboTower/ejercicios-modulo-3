@@ -1,7 +1,7 @@
 # Ejercicio 13 - Juego: Piedra, Papel o Tijeras (repaso)
 
 [⬅ Volver al índice](../index.html)  
-[➡ Ver solución](./ejercicio-13-solucion.md)
+[➡ Ver solución](../ejercicio-13-solucion.md)
 
 ---
 

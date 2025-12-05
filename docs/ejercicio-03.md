@@ -1,7 +1,7 @@
 # Ejercicio 3 - Par o impar
 
 [⬅ Volver al índice](../index.html)  
-[➡ Ver solución](./ejercicio-03-solucion.md)
+[➡ Ver solución](../ejercicio-03-solucion.md)
 
 ---
 

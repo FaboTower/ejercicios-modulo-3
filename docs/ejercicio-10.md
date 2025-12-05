@@ -1,7 +1,7 @@
 # Ejercicio 10 - Comparador de 3 números
 
 [⬅ Volver al índice](../index.html)  
-[➡ Ver solución](./ejercicio-10-solucion.md)
+[➡ Ver solución](../ejercicio-10-solucion.md)
 
 ---
 

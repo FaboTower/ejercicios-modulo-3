@@ -1,7 +1,7 @@
 # Ejercicio 8 - Descuento en tienda
 
 [⬅ Volver al índice](../index.html)  
-[➡ Ver solución](./ejercicio-08-solucion.md)
+[➡ Ver solución](../ejercicio-08-solucion.md)
 
 ---
 

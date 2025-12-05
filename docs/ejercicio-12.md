@@ -1,7 +1,7 @@
 # Ejercicio 12 - Cálculo de promedio con mensaje (versión mejorada)
 
 [⬅ Volver al índice](../index.html)  
-[➡ Ver solución](./ejercicio-12-solucion.md)
+[➡ Ver solución](../ejercicio-12-solucion.md)
 
 ---
 

@@ -1,7 +1,7 @@
 # Ejercicio 15 - Mini simulador de cajero automático
 
 [⬅ Volver al índice](../index.html)  
-[➡ Ver solución](./ejercicio-15-solucion.md)
+[➡ Ver solución](../ejercicio-15-solucion.md)
 
 ---
 

@@ -1,7 +1,7 @@
 # Ejercicio 4 - Saludo personalizado según hora
 
 [⬅ Volver al índice](../index.html)  
-[➡ Ver solución](./ejercicio-04-solucion.md)
+[➡ Ver solución](../ejercicio-04-solucion.md)
 
 ---
 

@@ -1,7 +1,7 @@
 # Ejercicio 2 - ¿Aprobó o reprobó?
 
 [⬅ Volver al índice](../index.html)  
-[➡ Ver solución](./ejercicio-02-solucion.md)
+[➡ Ver solución](../ejercicio-02-solucion.md)
 
 ---
 

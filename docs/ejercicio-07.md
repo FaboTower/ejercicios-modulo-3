@@ -1,7 +1,7 @@
 # Ejercicio 7 - Acceso al sistema
 
 [⬅ Volver al índice](../index.html)  
-[➡ Ver solución](./ejercicio-07-solucion.md)
+[➡ Ver solución](../ejercicio-07-solucion.md)
 
 ---
 

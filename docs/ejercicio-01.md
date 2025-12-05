@@ -1,7 +1,7 @@
 # Ejercicio 1 – Clasificador de edad simple
 
 [⬅ Volver al índice](../index.html)  
-[➡ Ver solución](./ejercicio-01-solucion.md)
+[➡ Ver solución](../ejercicio-01-solucion.md)
 
 ---
 

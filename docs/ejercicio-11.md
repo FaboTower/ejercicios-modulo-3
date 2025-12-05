@@ -1,7 +1,7 @@
 # Ejercicio 11 - Simulador de semáforo peatonal
 
 [⬅ Volver al índice](../index.html)  
-[➡ Ver solución](./ejercicio-11-solucion.md)
+[➡ Ver solución](../ejercicio-11-solucion.md)
 
 ---
 

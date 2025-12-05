@@ -1,7 +1,7 @@
 # Ejercicio 5 - Verificador de tipo de dato
 
 [⬅ Volver al índice](../index.html)  
-[➡ Ver solución](./ejercicio-05-solucion.md)
+[➡ Ver solución](../ejercicio-05-solucion.md)
 
 ---
 

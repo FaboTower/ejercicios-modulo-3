@@ -1,45 +1,31 @@
 # Ejercicio 9 - Descuento en tienda
 
 [⬅ Volver al índice](../index.html)  
-[➡ Ver solución](./ejercicio-09-solucion.md)
+[➡ Ver solución](../ejercicio-09-solucion.md)
 
 ---
 
-# 8️⃣ “Descuento en tienda”
+# 9️⃣ “Juego: Cara o Cruz (una sola ronda)”
 
-**Objetivo:** condicionales + && y ||.
+**Objetivo:** Math.random(), condicional, strings.
 
 **Enunciado:**
-En una tienda, si un cliente:
-- Es miembro (esMiembro === true) y
-- El monto de la compra es mayor o igual a 50.000
+Pide al usuario que elija “cara” o “cruz”.
+El programa “lanza una moneda” generando un número aleatorio:
+- 0 → “cara”
+- 1 → “cruz”
 
-obtiene un 10% de descuento.
-Si solo el monto es mayor a 100.000, también obtiene el descuento aunque no sea miembro.
-
-**Pide:**
-- Monto de compra.
-- Si es miembro (puedes pedir “si/no” y convertir a booleano).
-
-**Muestra:**
-- Monto original.
-- Si aplica o no descuento.
-- Monto final.
+Muestra el resultado de la moneda y si el usuario ganó o perdió.
 
 **Pistas:**
-- Condición de miembro: esMiembro === true && monto >= 50000
-- O sin ser miembro: monto >= 100000
-- Combinar: if ((esMiembro && monto >= 50000) || monto >= 100000) { … }
-
 ```js
-    const eleccion = prompt("cara o cruz");
-    const numero = Math.floor(Math.random() * 2); // 0 o 1
-    let resultado;
-    if (numero === 0) {
-    resultado = "cara";
-    } else {
-    resultado = "cruz";
-    }
-    if (eleccion === resultado) { ... }
+const eleccion = prompt("cara o cruz");
+const numero = Math.floor(Math.random() * 2); // 0 o 1
+let resultado;
+if (numero === 0) {
+  resultado = "cara";
+} else {
+  resultado = "cruz";
+}
+if (eleccion === resultado) { ... }
 ```
-

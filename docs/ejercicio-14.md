@@ -1,7 +1,7 @@
 # Ejercicio 14 - Juego: Mayor o menor (número aleatorio)
 
 [⬅ Volver al índice](../index.html)  
-[➡ Ver solución](./ejercicio-14-solucion.md)
+[➡ Ver solución](../ejercicio-14-solucion.md)
 
 ---
 
